@@ -11,7 +11,7 @@ public class HolaMundo {
 	
 		newNoobs Germin = new newNoobs ("Germin", 20, false);
 		System.out.println(Germin.getNobatin());
-		System.out.println("maldito arabe");
+		System.out.println("maldito arabe loco");
 
 
 	}
