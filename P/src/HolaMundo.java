@@ -12,7 +12,8 @@ public class HolaMundo {
 		System.out.println("Experimento CON CMD");
 		System.out.println("Sergio is from Arabia Saudita");
 		System.out.println("Sergio is from Arabia Sauditss");
-
+		newNoobs Germin = new newNoobs ("Germin", 20, false);
+		System.out.println(Germin.getNobatin());
 
 
 	}
