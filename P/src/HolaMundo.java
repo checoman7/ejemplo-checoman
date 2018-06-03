@@ -10,6 +10,8 @@ public class HolaMundo {
 		newNoobs Daniel = new newNoobs("Daniel" , 10, false);
 		System.out.println(Daniel.getNobatin());
 		System.out.println("Experimento CON CMD");
+		System.out.println("Sergio is from Arabia Saudita");
+
 
 	}
 
