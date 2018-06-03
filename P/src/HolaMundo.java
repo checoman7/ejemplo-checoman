@@ -17,7 +17,7 @@ public class HolaMundo {
 		newNoobs Germin = new newNoobs ("Germin", 20, false);
 		System.out.println(Germin.getNobatin());
 		System.out.println("Patricia huele a popo");
-		System.out.println("de verdad");
+		System.out.println("de verdad ;)");
 
 
 	}
