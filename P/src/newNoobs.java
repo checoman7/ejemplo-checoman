@@ -13,7 +13,7 @@ public class newNoobs {
 	
 	public String getNobatin() {
 		if (comecacas) {
-		return "Hola: " + nombres +" tu edad es: "+ edad + "y comes caca";
+		return "Hola: " + nombres +" tu edad es: "+ edad + " y comes caca";
 		}
 		else return "Hola: " + nombres +" tu edad es: "+ edad + " y comes caca pero no lo quieres aceptar";
 		
