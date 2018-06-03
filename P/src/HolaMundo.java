@@ -9,6 +9,8 @@ public class HolaMundo {
 		System.out.println(Patricia.getNobatin());
 		newNoobs Daniel = new newNoobs("Daniel" , 10, false);
 		System.out.println(Daniel.getNobatin());
+		System.out.println("Experimento CON CMD");
+
 	}
 
 }
