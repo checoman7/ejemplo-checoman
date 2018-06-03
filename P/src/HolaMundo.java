@@ -5,6 +5,10 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola chocheman");
 		System.out.println("hola putito chocheman");
+		newNoobs Patricia = new newNoobs("Patricia" , 10, true);
+		System.out.println(Patricia.getNobatin());
+		newNoobs Daniel = new newNoobs("Daniel" , 10, false);
+		System.out.println(Daniel.getNobatin());
 	}
 
 }
